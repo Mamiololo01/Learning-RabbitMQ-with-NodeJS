@@ -51,10 +51,17 @@ Install amqplib via npm which is a major dependency
 Then create the consumer.js file and initiatize via npm
 
 To punish a message
-Npm run publish
-To consume a message
-Npm run consume
+npm run publish
 
-Npm run publish x
-Npm run consume y
-Will show x and y
+To consume a message
+npm run consume
+
+npm run publish x
+npm run consume y
+
+
+<img width="841" alt="Screenshot 2023-06-10 at 16 09 57" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/337d007b-47db-493d-b76b-9adc77e22b4a">
+
+<img width="920" alt="Screenshot 2023-06-10 at 16 10 35" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/a78af191-927c-433d-a825-4c7c8d921d66">
+
+<img width="737" alt="Screenshot 2023-06-10 at 16 11 19" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/3b92e2df-17a1-4279-8daf-7df38d5e94e8">
