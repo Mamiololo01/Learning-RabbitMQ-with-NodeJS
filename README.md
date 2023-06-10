@@ -41,6 +41,10 @@ docker run --name rabbitmq -p 5672:5672 -d rabbitmq
 Spin rabbitmq server HTTP server docker
 docker run --name rabbitmq -p 5672:5672 -p 15672:15672 -d rabbitmq:3-management
 
+<img width="736" alt="Screenshot 2023-06-10 at 11 40 59" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/faab112a-0416-4b21-b2f6-1fe6e715bdb0">
+
+<img width="721" alt="Screenshot 2023-06-10 at 16 04 13" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/4489f084-e033-4c22-9025-cb1f7b58aa6a">
+
 Then build.a publisher
 Create a publisher.js file and initialise npm
 
@@ -51,12 +55,15 @@ Install amqplib via npm which is a major dependency
 Then create the consumer.js file and initiatize via npm
 
 To punish a message
+
 npm run publish
 
 To consume a message
+
 npm run consume
 
 npm run publish x
+
 npm run consume y
 
 
