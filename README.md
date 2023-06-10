@@ -47,6 +47,8 @@ docker run --name rabbitmq -p 5672:5672 -p 15672:15672 -d rabbitmq:3-management
 
 Initiatize the project
 
+<img width="794" alt="Screenshot 2023-06-10 at 11 47 25" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/b5c4592a-adac-4598-a93a-da92f6bc117f">
+
 Then build.a publisher
 Create a publisher.js file and initialise npm
 
