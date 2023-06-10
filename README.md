@@ -45,12 +45,16 @@ docker run --name rabbitmq -p 5672:5672 -p 15672:15672 -d rabbitmq:3-management
 
 <img width="721" alt="Screenshot 2023-06-10 at 16 04 13" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/4489f084-e033-4c22-9025-cb1f7b58aa6a">
 
+Initiatize the project
+
 Then build.a publisher
 Create a publisher.js file and initialise npm
 
 It creates the package.json file and install the required dependencies
 
 Install amqplib via npm which is a major dependency
+
+<img width="793" alt="Screenshot 2023-06-10 at 12 16 35" src="https://github.com/Mamiololo01/Learning-rabbitMQ-with-NodeJS/assets/67044030/b220b8f3-9473-4de3-a395-8f0b7077a02a">
 
 Then create the consumer.js file and initiatize via npm
 
